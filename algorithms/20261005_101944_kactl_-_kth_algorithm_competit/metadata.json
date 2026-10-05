@@ -1,0 +1,11 @@
+{
+  "topic": "Kactl - KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-05T10:19:44.979158+00:00",
+  "source_file": "main.php",
+  "files": [
+    "main.php"
+  ]
+}
