@@ -1,0 +1,12 @@
+{
+  "topic": "Ruvector - RuVector provides High Performance, Real-Time decisions and agent memory",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-05T21:35:03.902009+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
