@@ -2,7 +2,7 @@
 > Strictly typed PHP 8.3 asynchronous fibers, JIT-optimized structures, and robust API primitives. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/php-backend-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-2%20Modules-blue?style=for-the-badge&logo=php)](https://github.com/myonathanlinkedin/php-backend-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-3%20Modules-blue?style=for-the-badge&logo=php)](https://github.com/myonathanlinkedin/php-backend-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/php-backend-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -15,6 +15,7 @@
 |---|---|---|:---:|:---:|:---:|:---:|
 | 1 | **Kactl - KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_101944_kactl_-_kth_algorithm_competit/main.php) |
 | 2 | **Hacking the Go compiler to efficiently map IPv4 to IPv6** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_103132_hacking_the_go_compiler_to_eff/main.php) |
+| 3 | **Cp Algorithms - Algorithm and data structure articles for (based on)** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_114726_cp_algorithms_-_algorithm_and/core.php) |
 
 ---
 
@@ -43,4 +44,4 @@ php main.php
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-05 10:31 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-05 11:47 UTC*</sub>
