@@ -1,0 +1,12 @@
+{
+  "topic": "OpenMP Meta-Lowering: A Declarative Approach to Performance Portable Parallel Code",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-05T15:43:25.637242+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
