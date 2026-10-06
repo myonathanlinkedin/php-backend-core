@@ -1,0 +1,12 @@
+{
+  "topic": "A new, bespoke static site generator to replace Jekyll",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-06T02:32:00.574703+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
