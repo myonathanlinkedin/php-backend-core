@@ -1,0 +1,12 @@
+{
+  "topic": "Dora - DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-06T07:42:29.987648+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
