@@ -1,0 +1,12 @@
+{
+  "topic": "A Uniform Algorithm for Strict NP on Bounded-Treedepth Graphs",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-06T07:01:59.409629+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
