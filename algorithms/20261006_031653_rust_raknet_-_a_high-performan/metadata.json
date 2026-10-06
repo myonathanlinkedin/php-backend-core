@@ -1,0 +1,12 @@
+{
+  "topic": "Rust Raknet - A high-performance asynchronous networking library",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-06T03:16:53.612959+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
