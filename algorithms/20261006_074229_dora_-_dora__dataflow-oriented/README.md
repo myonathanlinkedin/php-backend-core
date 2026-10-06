@@ -1,20 +1,20 @@
 # Dora - DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline (PHP)
 
-> Modern **PHP** reference architecture for **Dora - DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline**. Engineered for rigorous algorithmic correctness, high throughput, and bounded memory utilization.
+> Core **PHP** implementation for **Dora - DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ## Overview & Mechanics
 
 The implementation focuses on the core mathematical properties of **Dora - DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline**:
 * **Data Organization**: Built upon `Standard Memory Primitives` to ensure predictable traversal and storage overhead.
-* **Safety Invariants**: Buffer boundaries are strictly verified to prevent out-of-bounds access and memory leak hazards.
-* **Execution Guarantees**: State transitions adhere to strict ordering guarantees with explicit synchronization fences where necessary.
+* **Safety Invariants**: Buffer boundaries and collection indices are explicitly validated to prevent out-of-bounds access.
+* **Execution Guarantees**: State transitions follow clear ordering guarantees with explicit validation at each phase.
 
 ## Complexity Profile
 
 * **Time Complexity**:
-  * Fast Path (Best): `$O(1)$`
-  * Generalized (Avg / Worst): `$O(N)$`
-* **Space Footprint**: `$O(N)$` resident heap / stack overhead.
+  * Fast Path (Best): `O(1)`
+  * Generalized (Avg / Worst): `O(N)`
+* **Space Footprint**: `O(N)` resident heap / stack overhead.
 
 ## Verification & Test Scenarios
 
@@ -30,4 +30,4 @@ php main.php
 
 ---
 
-*Authored & verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Systems Engineering Portfolio*
+*Reference implementation verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

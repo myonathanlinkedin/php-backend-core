@@ -1,12 +1,12 @@
 # OpenMP Meta-Lowering: A Declarative Approach to Performance Portable Parallel Code
 
-A clean, dependency-free **PHP** implementation of **OpenMP Meta-Lowering: A Declarative Approach to Performance Portable Parallel Code**, focused on predictable latency, strict memory layout, and deterministic execution.
+A clean, dependency-free **PHP** reference implementation of **OpenMP Meta-Lowering: A Declarative Approach to Performance Portable Parallel Code**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ### Core Highlights
 * **Language & Standard**: Modern `PHP` standard library conventions.
 * **Architecture Pattern**: Designed for `Algorithmic Engineering` using `Standard Memory Primitives`.
-* **Runtime Overhead**: Zero superfluous dynamic allocations; structured for mechanical sympathy with the host runtime.
-* **Concurrency & Safety**: State transitions adhere to strict ordering guarantees with explicit synchronization fences where necessary.
+* **Runtime Overhead**: Zero external heap dependencies; designed as a pure in-memory algorithmic component.
+* **Concurrency & Safety**: State transitions follow clear ordering guarantees with explicit validation at each phase.
 
 ---
 
@@ -14,9 +14,9 @@ A clean, dependency-free **PHP** implementation of **OpenMP Meta-Lowering: A Dec
 
 | Dimension | Bound |
 | :--- | :--- |
-| **Time (Best Case)** | `$O(1)$` |
-| **Time (Worst Case)** | `$O(N \log N)$` |
-| **Auxiliary Space** | `$O(N)$` |
+| **Time (Best Case)** | `O(1)` |
+| **Time (Worst Case)** | `O(N log N)` |
+| **Auxiliary Space** | `O(N)` |
 
 ---
 
@@ -30,4 +30,4 @@ php main.php
 
 ---
 
-*Authored & verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Systems Engineering Portfolio*
+*Reference implementation verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

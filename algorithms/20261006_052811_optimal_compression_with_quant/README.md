@@ -1,24 +1,24 @@
-# Optimal compression with quantum retrieval
+# Lossless Streaming Compression and Retrieval Engine
 
-Production-ready implementation of the **Optimal compression with quantum retrieval** algorithm in **PHP**, adhering to idiomatic design patterns, cache-friendly data layouts, and comprehensive test assertions.
+Core **PHP** implementation for **Lossless Streaming Compression and Retrieval Engine**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ---
 
 ## 🏛️ Architecture & Design Decisions
 
-This module organizes `Optimal compression with quantum retrieval` into an isolated, self-contained unit:
+This module organizes `Lossless Streaming Compression and Retrieval Engine` into an isolated, self-contained unit:
 * **Domain Focus**: `Computational Mathematics & Transformation`
 * **Primary Primitives**: `Lookup Tables & Bitwise Bitvectors`
-* **Memory Strategy**: Memory allocations are kept minimal to avoid allocator contention and preserve CPU cache locality.
-* **Correctness Model**: Designed with reentrancy and thread isolation in mind, preventing data races under parallel workloads.
+* **Memory Strategy**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Correctness Model**: Encapsulates state within isolated data structures, keeping logic self-contained.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(N \log N)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(N \log N)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(N log N)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(N log N)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N)` | Strict bounds without unconstrained heap growth |
 
 ---
 
@@ -37,4 +37,4 @@ php main.php
 
 ---
 
-*Authored & verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Systems Engineering Portfolio*
+*Reference implementation verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

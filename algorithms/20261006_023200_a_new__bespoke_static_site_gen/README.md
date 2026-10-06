@@ -1,40 +1,33 @@
-# A new, bespoke static site generator to replace Jekyll
+# High-Performance Static Content Pipeline Engine (PHP)
 
-High-performance **A new, bespoke static site generator to replace Jekyll** primitive implemented in idiomatic **PHP**. Built from scratch using standard library constructs with zero external dependencies.
+> Core **PHP** implementation for **High-Performance Static Content Pipeline Engine**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
----
+## Overview & Mechanics
 
-## 🏛️ Architecture & Design Decisions
+The implementation focuses on the core mathematical properties of **High-Performance Static Content Pipeline Engine**:
+* **Data Organization**: Built upon `Standard Memory Primitives` to ensure predictable traversal and storage overhead.
+* **Safety Invariants**: Buffer boundaries and collection indices are explicitly validated to prevent out-of-bounds access.
+* **Execution Guarantees**: State transitions follow clear ordering guarantees with explicit validation at each phase.
 
-This module organizes `A new, bespoke static site generator to replace Jekyll` into an isolated, self-contained unit:
-* **Domain Focus**: `Algorithmic Engineering`
-* **Primary Primitives**: `Standard Memory Primitives`
-* **Memory Strategy**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Correctness Model**: Designed with reentrancy and thread isolation in mind, preventing data races under parallel workloads.
+## Complexity Profile
 
-### Asymptotic Complexity
+* **Time Complexity**:
+  * Fast Path (Best): `O(1)`
+  * Generalized (Avg / Worst): `O(N)`
+* **Space Footprint**: `O(N)` resident heap / stack overhead.
 
-| Metric | Bound | Characteristics |
-| :--- | :---: | :--- |
-| **Best Case Time** | `$O(1)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(N)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N)$` | Strict bounds without unconstrained heap growth |
+## Verification & Test Scenarios
 
----
-
-## 🧪 Verification Suite
-
-The accompanying `main.php` driver executes self-contained verification tests:
-1. **Nominal Flow**: Validates baseline correctness under typical real-world inputs.
-2. **Boundary Conditions**: Exercises extreme edge cases (empty inputs, singletons, capacity limits).
-3. **Invariant Preservation**: Validates internal state consistency throughout mutation lifecycles.
-
-### Running Locally
+The test suite in `main.php` validates:
+* Standard operational paths against expected outcomes.
+* Extreme values and edge inputs to ensure robust failure handling.
+* State stability across sequential and repeated operations.
 
 ```bash
+# Execute local verification runner
 php main.php
 ```
 
 ---
 
-<sub>Crafted with modern PHP standards • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>
+<sub>Standard PHP reference implementation • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>

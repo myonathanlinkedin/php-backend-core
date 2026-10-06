@@ -1,12 +1,12 @@
 # Cp Algorithms - Algorithm and data structure articles for (based on)
 
-High-performance **Cp Algorithms - Algorithm and data structure articles for (based on)** primitive implemented in idiomatic **PHP**. Built from scratch using standard library constructs with zero external dependencies.
+Self-contained **Cp Algorithms - Algorithm and data structure articles for (based on)** algorithmic primitive written in idiomatic **PHP**. Built from scratch using standard library constructs with zero external dependencies.
 
 ### Core Highlights
 * **Language & Standard**: Modern `PHP` standard library conventions.
 * **Architecture Pattern**: Designed for `Algorithmic Engineering` using `Standard Memory Primitives`.
-* **Runtime Overhead**: Buffer boundaries are strictly verified to prevent out-of-bounds access and memory leak hazards.
-* **Concurrency & Safety**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+* **Runtime Overhead**: Buffer boundaries and collection indices are explicitly validated to prevent out-of-bounds access.
+* **Concurrency & Safety**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
 ---
 
@@ -14,9 +14,9 @@ High-performance **Cp Algorithms - Algorithm and data structure articles for (ba
 
 | Dimension | Bound |
 | :--- | :--- |
-| **Time (Best Case)** | `$O(1)$` |
-| **Time (Worst Case)** | `$O(N \log N)$` |
-| **Auxiliary Space** | `$O(N)$` |
+| **Time (Best Case)** | `O(1)` |
+| **Time (Worst Case)** | `O(N log N)` |
+| **Auxiliary Space** | `O(N)` |
 
 ---
 

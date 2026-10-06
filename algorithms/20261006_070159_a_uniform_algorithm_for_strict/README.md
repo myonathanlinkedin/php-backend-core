@@ -1,6 +1,6 @@
 # A Uniform Algorithm for Strict NP on Bounded-Treedepth Graphs
 
-High-performance **A Uniform Algorithm for Strict NP on Bounded-Treedepth Graphs** primitive implemented in idiomatic **PHP**. Built from scratch using standard library constructs with zero external dependencies.
+Self-contained **A Uniform Algorithm for Strict NP on Bounded-Treedepth Graphs** algorithmic primitive written in idiomatic **PHP**. Built from scratch using standard library constructs with zero external dependencies.
 
 ---
 
@@ -9,16 +9,16 @@ High-performance **A Uniform Algorithm for Strict NP on Bounded-Treedepth Graphs
 This module organizes `A Uniform Algorithm for Strict NP on Bounded-Treedepth Graphs` into an isolated, self-contained unit:
 * **Domain Focus**: `Graph Topology & Traversal`
 * **Primary Primitives**: `Adjacency List & Priority Heap`
-* **Memory Strategy**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Correctness Model**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+* **Memory Strategy**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Correctness Model**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(V + E)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O((V + E) \log V)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(V + E)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(V + E)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O((V + E) log V)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(V + E)` | Strict bounds without unconstrained heap growth |
 
 ---
 
@@ -37,4 +37,4 @@ php main.php
 
 ---
 
-<sub>Crafted with modern PHP standards • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>
+<sub>Standard PHP reference implementation • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>

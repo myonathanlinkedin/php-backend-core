@@ -1,12 +1,12 @@
-# Quantum algorithms for orthogonal polynomial transforms
+# Orthogonal Polynomial Transforms and Chebyshev Decomposition
 
-High-performance **Quantum algorithms for orthogonal polynomial transforms** primitive implemented in idiomatic **PHP**. Built from scratch using standard library constructs with zero external dependencies.
+Core **PHP** implementation for **Orthogonal Polynomial Transforms and Chebyshev Decomposition**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ### Core Highlights
 * **Language & Standard**: Modern `PHP` standard library conventions.
 * **Architecture Pattern**: Designed for `Algorithmic Engineering` using `Standard Memory Primitives`.
-* **Runtime Overhead**: Zero superfluous dynamic allocations; structured for mechanical sympathy with the host runtime.
-* **Concurrency & Safety**: State transitions adhere to strict ordering guarantees with explicit synchronization fences where necessary.
+* **Runtime Overhead**: Buffer boundaries and collection indices are explicitly validated to prevent out-of-bounds access.
+* **Concurrency & Safety**: State consistency is verified after mutations through assertion test coverage.
 
 ---
 
@@ -14,9 +14,9 @@ High-performance **Quantum algorithms for orthogonal polynomial transforms** pri
 
 | Dimension | Bound |
 | :--- | :--- |
-| **Time (Best Case)** | `$O(1)$` |
-| **Time (Worst Case)** | `$O(N \log N)$` |
-| **Auxiliary Space** | `$O(N)$` |
+| **Time (Best Case)** | `O(1)` |
+| **Time (Worst Case)** | `O(N log N)` |
+| **Auxiliary Space** | `O(N)` |
 
 ---
 
@@ -30,4 +30,4 @@ php main.php
 
 ---
 
-*Curated as part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*
+*Source code released under the MIT License • [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

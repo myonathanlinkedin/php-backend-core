@@ -1,18 +1,18 @@
 # Kactl - KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp) in PHP
 
-A clean, dependency-free **PHP** implementation of **Kactl - KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)**, focused on predictable latency, strict memory layout, and deterministic execution.
+A clean, dependency-free **PHP** reference implementation of **Kactl - KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ## Implementation Details
 
 * **Category**: `Algorithmic Engineering`
 * **Data Structure Foundation**: `Standard Memory Primitives`
-* **Allocation Pattern**: Zero superfluous dynamic allocations; structured for mechanical sympathy with the host runtime.
-* **Invariant Integrity**: State consistency is verified after every mutation through formal invariant validation.
+* **Allocation Pattern**: Zero external heap dependencies; designed as a pure in-memory algorithmic component.
+* **Invariant Integrity**: State consistency is verified after mutations through assertion test coverage.
 
 ## Performance Characteristics
 
-* **Time**: `$O(N)$` average, with `$O(1)$` best-case response under ideal conditions.
-* **Space**: `$O(N)$` memory usage.
+* **Time**: `O(N)` average, with `O(1)` best-case response under ideal conditions.
+* **Space**: `O(N)` memory usage.
 
 ## Test Harness
 
