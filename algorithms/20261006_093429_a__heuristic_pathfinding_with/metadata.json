@@ -1,0 +1,12 @@
+{
+  "topic": "A* Heuristic Pathfinding with Dynamic Obstacle Cost",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-06T09:34:29.835297+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
