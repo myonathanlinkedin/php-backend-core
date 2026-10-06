@@ -2,7 +2,7 @@
 > Strictly typed PHP 8.3 asynchronous fibers, JIT-optimized structures, and robust API primitives. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/php-backend-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-13%20Modules-blue?style=for-the-badge&logo=php)](https://github.com/myonathanlinkedin/php-backend-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-14%20Modules-blue?style=for-the-badge&logo=php)](https://github.com/myonathanlinkedin/php-backend-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/php-backend-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -26,6 +26,7 @@
 | 11 | **A new, bespoke static site generator to replace Jekyll** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_023200_a_new__bespoke_static_site_gen/main.php) |
 | 12 | **Optimal compression with quantum retrieval** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_052811_optimal_compression_with_quant/main.php) |
 | 13 | **Chronicle Queue - Micro second messaging that stores everything to disk** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_060158_chronicle_queue_-_micro_second/main.php) |
+| 14 | **A Uniform Algorithm for Strict NP on Bounded-Treedepth Graphs** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_070159_a_uniform_algorithm_for_strict/main.php) |
 
 ---
 
@@ -54,4 +55,4 @@ php main.php
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 06:02 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 07:02 UTC*</sub>
