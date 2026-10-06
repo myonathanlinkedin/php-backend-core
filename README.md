@@ -2,7 +2,7 @@
 > Strictly typed PHP 8.3 asynchronous fibers, JIT-optimized structures, and robust API primitives. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/php-backend-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-15%20Modules-blue?style=for-the-badge&logo=php)](https://github.com/myonathanlinkedin/php-backend-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-16%20Modules-blue?style=for-the-badge&logo=php)](https://github.com/myonathanlinkedin/php-backend-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/php-backend-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -28,6 +28,7 @@
 | 13 | **Chronicle Queue - Micro second messaging that stores everything to disk** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_060158_chronicle_queue_-_micro_second/main.php) |
 | 14 | **A Uniform Algorithm for Strict NP on Bounded-Treedepth Graphs** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_070159_a_uniform_algorithm_for_strict/main.php) |
 | 15 | **Dora - DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_074229_dora_-_dora__dataflow-oriented/main.php) |
+| 16 | **A* Heuristic Pathfinding with Dynamic Obstacle Cost** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_093429_a__heuristic_pathfinding_with/main.php) |
 
 ---
 
@@ -56,4 +57,4 @@ php main.php
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 07:42 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 09:34 UTC*</sub>
