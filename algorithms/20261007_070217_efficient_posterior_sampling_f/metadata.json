@@ -1,0 +1,13 @@
+{
+  "topic": "Efficient Posterior Sampling for $\\mathbb Z_2$ Synchronization",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-07T07:02:17.984076+00:00",
+  "source_file": "main.php",
+  "files": [
+    "types.php",
+    "engine.php",
+    "main.php"
+  ]
+}
