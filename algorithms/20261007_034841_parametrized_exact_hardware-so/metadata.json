@@ -1,0 +1,12 @@
+{
+  "topic": "Parametrized Exact Hardware-Software Partitioning",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-07T03:48:41.320116+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
