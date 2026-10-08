@@ -2,7 +2,7 @@
 > Strictly typed PHP 8.3 asynchronous fibers, JIT-optimized structures, and robust API primitives. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/php-backend-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-22%20Modules-blue?style=for-the-badge&logo=php)](https://github.com/myonathanlinkedin/php-backend-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-23%20Modules-blue?style=for-the-badge&logo=php)](https://github.com/myonathanlinkedin/php-backend-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/php-backend-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -35,6 +35,7 @@
 | 20 | **Inside the Mojo compiler** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_113823_inside_the_mojo_compiler/core.php) |
 | 21 | **Codeforces Go - by** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_133431_codeforces_go_-_by/main.php) |
 | 22 | **Leetcode Solutions** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_160227_leetcode_solutions/main.php) |
+| 23 | **Count-Min Sketch Heavy Hitters Frequency Estimator** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_020518_count-min_sketch_heavy_hitters/main.php) |
 
 ---
 
@@ -63,4 +64,4 @@ php main.php
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 16:02 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-08 02:05 UTC*</sub>
