@@ -1,0 +1,12 @@
+{
+  "topic": "Subset Sum via Partial Match",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-08T13:02:20.760506+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
