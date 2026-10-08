@@ -1,0 +1,13 @@
+{
+  "topic": "LOCAA: An Agentic System for Automated Lossy Compressor Tuning",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-08T08:05:14.772818+00:00",
+  "source_file": "main.php",
+  "files": [
+    "types.php",
+    "engine.php",
+    "main.php"
+  ]
+}
