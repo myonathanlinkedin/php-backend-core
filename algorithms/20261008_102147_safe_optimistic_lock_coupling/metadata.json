@@ -1,0 +1,12 @@
+{
+  "topic": "Safe Optimistic Lock Coupling",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-08T10:21:47.001671+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
