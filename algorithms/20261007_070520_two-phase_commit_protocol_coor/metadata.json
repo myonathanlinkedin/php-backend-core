@@ -1,0 +1,12 @@
+{
+  "topic": "Two-Phase Commit Protocol Coordinator and Participant State Machine",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-07T07:05:20.287017+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}

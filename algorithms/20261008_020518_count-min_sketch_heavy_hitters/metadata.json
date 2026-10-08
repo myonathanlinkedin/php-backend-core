@@ -1,0 +1,13 @@
+{
+  "topic": "Count-Min Sketch Heavy Hitters Frequency Estimator",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-08T02:05:18.261179+00:00",
+  "source_file": "main.php",
+  "files": [
+    "types.php",
+    "engine.php",
+    "main.php"
+  ]
+}
