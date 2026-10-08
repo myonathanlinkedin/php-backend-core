@@ -1,0 +1,13 @@
+{
+  "topic": "Nats Server - High-Performance server for NATS.io, the cloud and edge native messaging",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-08T10:39:44.912788+00:00",
+  "source_file": "main.php",
+  "files": [
+    "types.php",
+    "engine.php",
+    "main.php"
+  ]
+}
