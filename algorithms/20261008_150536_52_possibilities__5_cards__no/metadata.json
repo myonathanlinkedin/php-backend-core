@@ -1,0 +1,12 @@
+{
+  "topic": "52 Possibilities. 5 Cards. No Guessing. Here\u2019s the Algorithm.",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-08T15:05:36.015977+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
