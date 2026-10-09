@@ -2,7 +2,7 @@
 > Strictly typed PHP 8.3 asynchronous fibers, JIT-optimized structures, and robust API primitives. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/php-backend-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-13%20Modules-blue?style=for-the-badge&logo=php)](https://github.com/myonathanlinkedin/php-backend-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-14%20Modules-blue?style=for-the-badge&logo=php)](https://github.com/myonathanlinkedin/php-backend-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/php-backend-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -26,6 +26,7 @@
 | 11 | **Hopcroft-Karp Bipartite Matching Algorithm** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_010208_hopcroft-karp_bipartite_matchi/main.php) |
 | 12 | **A Refined Analysis for Matroid Secretary with Submodular Objectives** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_040216_a_refined_analysis_for_matroid/main.php) |
 | 13 | **Improved Approximations for Vehicle Routing with Nonuniform Speeds** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_050221_improved_approximations_for_ve/main.php) |
+| 14 | **Escaping Degeneracy by Following Shadow Edges** | php | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_100250_escaping_degeneracy_by_followi/types.php) |
 
 ---
 
@@ -54,4 +55,4 @@ php main.php
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-09 05:02 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-09 10:03 UTC*</sub>
