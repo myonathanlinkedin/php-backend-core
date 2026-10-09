@@ -1,0 +1,13 @@
+{
+  "topic": "Improved Approximations for Vehicle Routing with Nonuniform Speeds",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-09T05:02:21.708269+00:00",
+  "source_file": "main.php",
+  "files": [
+    "types.php",
+    "engine.php",
+    "main.php"
+  ]
+}
