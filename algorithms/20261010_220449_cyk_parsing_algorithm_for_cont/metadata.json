@@ -1,0 +1,13 @@
+{
+  "topic": "CYK Parsing Algorithm for Context-Free Grammars",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-10T22:04:49.272540+00:00",
+  "source_file": "main.php",
+  "files": [
+    "types.php",
+    "engine.php",
+    "main.php"
+  ]
+}
