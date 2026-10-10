@@ -1,0 +1,12 @@
+{
+  "topic": "The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-10T12:02:08.230762+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
