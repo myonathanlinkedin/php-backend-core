@@ -1,0 +1,13 @@
+{
+  "topic": "Lamport Logical Timestamp Synchronization Engine",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-11T09:45:16.289539+00:00",
+  "source_file": "main.php",
+  "files": [
+    "types.php",
+    "engine.php",
+    "main.php"
+  ]
+}
