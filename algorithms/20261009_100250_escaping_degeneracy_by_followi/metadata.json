@@ -1,0 +1,11 @@
+{
+  "topic": "Escaping Degeneracy by Following Shadow Edges",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-09T10:02:50.726774+00:00",
+  "source_file": "types.php",
+  "files": [
+    "types.php"
+  ]
+}
