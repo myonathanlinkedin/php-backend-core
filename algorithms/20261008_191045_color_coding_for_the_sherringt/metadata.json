@@ -1,0 +1,12 @@
+{
+  "topic": "Color Coding for the Sherrington-Kirkpatrick Model",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-08T19:10:45.173815+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}

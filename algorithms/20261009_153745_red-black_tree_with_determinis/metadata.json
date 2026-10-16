@@ -1,0 +1,12 @@
+{
+  "topic": "Red-Black Tree with Deterministic Balance Assertions",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-09T15:37:45.223301+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}

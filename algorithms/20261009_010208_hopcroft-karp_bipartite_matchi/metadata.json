@@ -1,0 +1,12 @@
+{
+  "topic": "Hopcroft-Karp Bipartite Matching Algorithm",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-09T01:02:08.704181+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}

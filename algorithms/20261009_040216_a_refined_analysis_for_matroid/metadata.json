@@ -1,0 +1,13 @@
+{
+  "topic": "A Refined Analysis for Matroid Secretary with Submodular Objectives",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-09T04:02:16.281343+00:00",
+  "source_file": "main.php",
+  "files": [
+    "types.php",
+    "engine.php",
+    "main.php"
+  ]
+}
