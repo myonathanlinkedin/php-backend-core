@@ -1,0 +1,13 @@
+{
+  "topic": "Designing a Notification System: Queues, Retries, Rate Limiting & Scale",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-16T03:01:30.782585+00:00",
+  "source_file": "main.php",
+  "files": [
+    "types.php",
+    "engine.php",
+    "main.php"
+  ]
+}

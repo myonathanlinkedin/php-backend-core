@@ -1,0 +1,12 @@
+{
+  "topic": "Self-Balancing AVL Tree with Full Rotation Engine",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-15T05:48:50.467510+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}

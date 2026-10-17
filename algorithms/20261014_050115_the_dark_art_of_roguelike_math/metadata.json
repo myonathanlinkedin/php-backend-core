@@ -1,0 +1,12 @@
+{
+  "topic": "The Dark Art of Roguelike Math: Deconstructing Hyperbolic Curves, Proc DAGs, and",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-14T05:01:15.104050+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "topic": "Multi-Source and Multi-Dimensional Information Fusion in Resource-Constrained Edge",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-12T19:01:16.480083+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}

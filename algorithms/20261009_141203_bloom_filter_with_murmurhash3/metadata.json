@@ -1,0 +1,11 @@
+{
+  "topic": "Bloom Filter with MurmurHash3 Hash Functions",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-09T14:12:03.629263+00:00",
+  "source_file": "core.php",
+  "files": [
+    "core.php"
+  ]
+}

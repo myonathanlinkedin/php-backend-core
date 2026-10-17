@@ -1,0 +1,12 @@
+{
+  "topic": "You could have invented transformers from memory",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-16T21:01:30.652919+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
