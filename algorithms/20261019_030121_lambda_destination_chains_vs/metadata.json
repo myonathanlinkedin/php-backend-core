@@ -1,0 +1,12 @@
+{
+  "topic": "Lambda Destination Chains vs. SQS Fanout: Event Routing Topology, Retry Semantics, and",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-19T03:01:21.832269+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
