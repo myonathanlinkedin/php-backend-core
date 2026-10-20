@@ -1,0 +1,12 @@
+{
+  "topic": "Huffman Coding Lossless Compression and Decompression",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-20T17:01:28.959915+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
