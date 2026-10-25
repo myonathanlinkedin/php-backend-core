@@ -1,0 +1,13 @@
+{
+  "topic": "Designing an AI Gateway from Scratch: Routing, Failover, and Cost Control",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-10-25T23:01:28.717739+00:00",
+  "source_file": "main.php",
+  "files": [
+    "types.php",
+    "engine.php",
+    "main.php"
+  ]
+}
