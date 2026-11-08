@@ -1,0 +1,12 @@
+{
+  "topic": "Copy-on-Write Vector Memory Buffer Management",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-11-08T23:02:42.787376+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
