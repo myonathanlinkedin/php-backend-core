@@ -1,0 +1,12 @@
+{
+  "topic": "Probabilistic data structures in Aether-Graph",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-11-14T17:02:35.992541+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
