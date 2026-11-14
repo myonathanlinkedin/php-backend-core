@@ -1,0 +1,12 @@
+{
+  "topic": "SSA from bytecode: imperative pearl",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-11-14T02:01:48.681322+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
