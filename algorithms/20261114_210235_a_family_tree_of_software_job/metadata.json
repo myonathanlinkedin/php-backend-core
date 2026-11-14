@@ -1,0 +1,12 @@
+{
+  "topic": "A Family Tree of Software Job Titles",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-11-14T21:02:35.458917+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
