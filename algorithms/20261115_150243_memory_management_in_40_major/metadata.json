@@ -1,0 +1,13 @@
+{
+  "topic": "Memory management in 40 major C projects, a survey",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-11-15T15:02:43.557096+00:00",
+  "source_file": "main.php",
+  "files": [
+    "types.php",
+    "engine.php",
+    "main.php"
+  ]
+}
