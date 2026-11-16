@@ -1,0 +1,13 @@
+{
+  "topic": "The Complexity of Traffic Engineering in Segment Routing Networks",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-11-16T15:02:40.987728+00:00",
+  "source_file": "main.php",
+  "files": [
+    "types.php",
+    "engine.php",
+    "main.php"
+  ]
+}
