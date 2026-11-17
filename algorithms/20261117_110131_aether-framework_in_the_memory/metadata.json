@@ -1,0 +1,12 @@
+{
+  "topic": "Aether-Framework in the memory of other programs",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-11-17T11:01:31.083230+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
