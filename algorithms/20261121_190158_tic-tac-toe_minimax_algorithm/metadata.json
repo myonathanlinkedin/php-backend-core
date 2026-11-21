@@ -1,0 +1,12 @@
+{
+  "topic": "Tic-Tac-Toe Minimax Algorithm in Chronos-Compute",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-11-21T19:01:58.753150+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
