@@ -1,0 +1,12 @@
+{
+  "topic": "From Skiplists to B+ Trees: Making Aether-Cache Sorted Sets More Memory Efficient",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-11-22T07:02:53.162095+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
