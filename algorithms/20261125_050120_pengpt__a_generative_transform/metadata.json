@@ -1,0 +1,12 @@
+{
+  "topic": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+  "language": "PHP",
+  "extension": ".php",
+  "category": "php",
+  "timestamp_utc": "2026-11-25T05:01:20.906998+00:00",
+  "source_file": "main.php",
+  "files": [
+    "core.php",
+    "main.php"
+  ]
+}
